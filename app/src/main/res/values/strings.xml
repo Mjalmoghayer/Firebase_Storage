@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Firebase_Storage</string>
+    <string name="select_file_from_storage">select file from storage</string>
+    <string name="todo">TODO</string>
+    <string name="upload_a_pdf">Upload A Pdf</string>
+</resources>
